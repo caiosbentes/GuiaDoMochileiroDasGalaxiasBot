@@ -19,7 +19,7 @@ $ cd pyTelegramBotAPI
 $ python setup.py install
 ```
 
-It is generally recommended to use the first option.
+É geralmente recomendado para usar a primeira opção.
 
 **While the API is production-ready, it is still under development and it has regular updates, do not forget to update it regularly by calling `pip install pytelegrambotapi --upgrade`*
 
